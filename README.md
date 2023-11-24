@@ -9,7 +9,7 @@ pip install xformers==0.0.17（或 0.0.20）
 在主目錄下，
 (1) （僅第一次）
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 (2) 
     
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 (3) 
 
-python3 main.py
+    python3 main.py
 
 # main.py 是參考下方連結寫成
 https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md
