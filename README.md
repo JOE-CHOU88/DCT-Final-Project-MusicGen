@@ -2,8 +2,10 @@
 測試成功：
 
 Python 環境為 >=3.8 , <=3.11 下，
+
 pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 -f https://download.pytorch.org/whl/torch_stable.html
 pip install xformers==0.0.17（或 0.0.20）
+
 參考連結：https://blog.csdn.net/shiwanghualuo/article/details/122860521
 
 # 運行步驟
