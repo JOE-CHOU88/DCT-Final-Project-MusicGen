@@ -34,7 +34,9 @@ https://huggingface.co/facebook/musicgen-melody
 
 # Windows No module named ‘triton‘ 問題解方
 從 https://huggingface.co/r4ziel/xformers_pre_built/blob/main/triton-2.0.0-cp310-cp310-win_amd64.whl
+
 下載 triton-2.0.0-cp310-cp310-win_amd64.whl 後放在主目錄中，
+
 並在 Terminal 端 運行指令 python.exe -m pip install triton-2.0.0-cp310-cp310-win_amd64.whl
 
 https://blog.csdn.net/ddrfan/article/details/130127401
