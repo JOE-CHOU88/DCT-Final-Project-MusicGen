@@ -29,6 +29,7 @@ Python 環境為 >=3.8 , <=3.11 下，
 
 # main.py 是參考下方連結寫成
 https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md
+
 https://huggingface.co/facebook/musicgen-melody
 
 # Windows No module named ‘triton‘ 問題解方
