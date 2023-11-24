@@ -10,6 +10,7 @@ pip install xformers==0.0.17（或 0.0.20）
 (1) pip install -r requirements.txt（僅第一次）
 
 (2) 
+    
     pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 -f https://download.pytorch.org/whl/torch_stable.html
 
     pip install xformers==0.0.17
